@@ -1,0 +1,394 @@
+@media screen  and (max-width:810px)  {
+
+   
+    
+    body{
+         margin: 50px;
+         width: 100%;
+    }
+    
+    .premier nav{
+        background-color:  rgb(37, 233, 37);
+        display: flex;
+        flex-wrap:wrap;
+        justify-content:space-between;
+        height:70px;
+        align-items: center;
+       
+    }
+    /* ICONES */
+    nav .icone, .icones{
+        display: flex;
+        flex-wrap:wrap;
+        color: aliceblue;
+        margin-right: 50px;
+    }
+    
+    
+    i{
+        margin-right: 18px;
+    }
+    
+    .icone{
+        margin-left: 70px;
+        font-size: larger;   
+    }
+    
+    .premier{
+        position: sticky;
+        top: 0;
+    }
+    
+    .icone p{
+        margin-left: 40px;
+        color: white;
+    }
+    .icones p{
+        color: white;
+    }
+    /* HEADER */
+    
+    header{
+        background-image: url("image/page-heading-bg\ \(3\).jpg");
+        height: 600px;;
+        color: aliceblue;
+        padding-top: 10px;
+        background-attachment: fixed;
+        margin-bottom: 100px;
+    }
+    header .container{
+        padding: 30px;
+        
+    }
+    
+    .container .onglets a{
+        font-size: bold;
+        color: white;
+        margin-right: 50px;
+        font-size: xx-large;
+    }
+    
+    .container h2 {
+        padding-top: 200px;
+        margin-left: 710px;
+        font-size: 2em;
+    }
+    
+        /* SERVICE FINANCE */
+    
+    
+    
+    .header h3{
+         padding-top: 40px;
+    }
+    
+    h3      {
+         margin-bottom: 7px;
+    }
+    
+    p      {
+         margin-bottom: 5px;
+    }
+    
+    
+    a     {
+         text-decoration: none;
+         color: aliceblue;
+    }
+
+    h1 b  {
+         color:  rgb(37, 233, 37);
+        
+    }
+    
+    h1   {
+         color: aliceblue;
+    }
+    
+    p     {
+         color: aliceblue;
+    }
+    
+    .jeune{
+        display: flex;
+        flex-wrap:wrap;
+        justify-content: space-evenly;
+        font-size: 20px;
+        padding: 100px;
+        margin-bottom: 100px;
+                 
+    }
+    
+    .jeune span{
+        color: black;   
+    }
+    
+    .jeune h1{
+        color: black;
+    }
+    
+    .iconne{
+        background-color: rgb(215, 223, 230); 
+        width: 500px;
+        height: 550px;
+        text-align: center;
+      
+    
+    }
+    .iconne p i {
+        font-size: 3em;
+        display: flex;
+        flex-wrap:wrap;
+        justify-content: center;
+        align-items: center;
+        padding-top: 120px;
+        padding-left: 20px;
+        color: rgb(37, 233, 37);
+    }
+    .c a{
+        color: rgb(11, 139, 11);
+        font-size: larger;
+        font-family: "cambria";
+    }
+    .iconne p {
+        font-size: larger;
+        font-family: "cambria";
+    }
+    
+    
+    .volume1 h1, p{
+        color: black;
+    }
+    
+    .volume1 h1{
+        font-size: large
+    }
+    
+    
+    .container{
+        display: flex; 
+        flex-wrap:wrap;
+        justify-content: space-evenly;
+        margin: 30px;
+          
+    }
+    
+    .bonheur{
+    
+        text-align: center;
+    }
+    
+    .bonheur1 h1{
+        color: black;
+        font-size: 3em;
+    }
+    .bonheur1 {
+        font-size:1.4em;
+        padding: 20px;
+    }
+    .bonheur2{
+        margin-left: 400px;
+        margin-right: 300px;
+       
+    }
+    
+    .bonheur2 .b1{
+        border-radius: 0px 0px 0px 0px,
+    }
+    
+    .bonheur2 button{
+        width: 400px;
+        cursor: pointer;
+    }
+    
+    .containe2 h1{
+        max-width: 320px;
+        font-size: 2em;
+        margin-top: 20px;
+    }
+    
+    span{
+        color: white;
+    }
+    
+    .containe2 p{
+        margin-top: 20px;
+        color: white;
+    }
+    
+    .bonheur2 button{
+        padding: 10px 30px 10px 30px;
+        border-radius: 50px;
+        border: none;
+        margin-top: 20px;
+        background-color: white;
+        height: 60px;
+        color:black;
+        font-size: large;
+    }
+    
+        
+    form{
+        display: flex;
+        flex-wrap:wrap;
+        justify-content: center;
+        flex-direction: column;
+        padding: 30px;
+        
+    }
+    
+    .zalika input{
+        padding: 20px;
+        padding-right: 10%;
+        border-radius: 50px;
+        margin-top: 50px;
+        font-size: 1.5em;
+        
+    }
+    
+    .bonheur2 textarea{
+        margin-top: 50px;
+        font-size: 2em; 
+        padding-left: 20px; 
+        padding: 20px;
+        border-radius: 20px;
+    }
+    
+    .bonheur2 button{
+    
+        margin-left: 500px;  
+    }
+    
+    div{
+        
+        text-align: center;
+    }
+    
+    .logo{
+        
+        font-size: 2em;
+        color: #3f3f3f;
+        display: inline;
+        display: flex;
+        flex-wrap:wrap;
+        justify-content: space-around;
+        padding: 100px;
+    }
+    
+    
+    .fondnoir{
+        background-color: black;
+        height: 900px;
+        
+    }
+    
+    .dansfondnoir p {
+        color: white;
+        margin-left: 30px;
+        margin-top: 30px;
+        font-size: x-large;
+    }
+    
+    .dansfondnoir h1{
+        margin-left: 30px;
+        padding-top: 70px;
+        font-size: 1.8em;
+    }
+    
+    .ikone div{
+        background-color:rgb(247, 243, 243);
+        width: 50px; 
+        height: 50px; 
+        display: flex;
+        flex-wrap:wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        cursor: pointer;
+    
+    }
+    
+    .f{
+        margin: 10px;
+        border-radius: 50px;
+    
+    }
+    
+    .f p {
+        display: inline;
+        flex-wrap:wrap;
+        color: black;
+    }
+    
+    .ikone{
+        display: flex;
+        flex-wrap:wrap;
+        margin-top: 50px;
+        
+    }
+    
+    form{
+        display: flex;
+        flex-wrap:wrap;
+        justify-content: center;
+        flex-direction: column;
+        padding: 30px;
+    }
+    
+    .danscontacter input{
+        padding: 20px;
+        padding-right: 10px;
+        border-radius: 50px;
+        margin-top: 20px;
+        font-size: 1.5em;
+        
+    }
+
+    .nouscontacter button{
+        padding: 27px;
+        width: 40%;
+        margin-left: 250px;
+        border-radius: 30px;
+        font-size:2em;
+        background-color: rgb(37, 233, 37);
+        cursor: pointer;
+        color: white;
+  }
+    
+    .nouscontacter textarea{
+        margin-top: 50px;
+        font-size: 2em;
+        width: 500px;
+        height: 300px;
+        padding-left: 20px;
+        padding: 20px;
+        border-radius: 20px;
+        margin-left: 70px;
+    
+    }
+    
+    .nouscontacter h1{
+        margin-left: 250px;
+    }
+    
+    .dansfondnoir{
+        display: flex;
+        flex-wrap:wrap;
+        justify-content: space-between;
+        padding: 90px;
+        padding-top: 180px;
+        
+    }
+    
+    
+    
+    footer{
+        background-color: #454545;
+        height: 150px;
+        font-size: 2em;
+        text-align: center;
+        color: white;
+        padding: 40px;
+    }
+    
+}
